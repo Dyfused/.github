@@ -4,6 +4,9 @@
 <h1>Dyfused</h1>
 <h3>Make Dynamite Great Again.</h3>
 <div>
-  <b><a href="https://github.com/Dyfused/Explode-Node">Explode-Node</a>*</b>
+  <b>
+    <a href="https://github.com/Dyfused/Explode-Kotlin">Explode-Kotlin</a>
+    <a href="https://github.com/Dyfused/Explode-Node">Explode-Node</a>(Deprecated)
+  </b>
 </div>
 </div>
