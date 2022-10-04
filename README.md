@@ -1,3 +1,3 @@
 # Dyfused Committee
 
-Dyfused should be pronounced /dʌɪˈfjuːz/.
+Dyfused should be pronounced /dʌɪˈfjuːzd/.
