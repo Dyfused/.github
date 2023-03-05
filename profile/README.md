@@ -9,5 +9,6 @@ We are Dynamite community organization.
 ## Dynamite Rebirth Project
 
 - [ExplodeX](https://github.com/Dyfused/ExplodeX): A Dynamite backend server.
+- [Dynamite Dyfused](https://github.com/Dyfused/DyfusedDynamite): A **modified** version of Dynamite.
 - ~~[Explode-Kotlin](https://github.com/Dyfused/Explode-Kotlin): A Dynamite backend server. (Deprecated)~~
 - ~~[Explode-Node](https://github.com/Dyfused/Explode-Node): A backend template/framework in Node.js, without implementation. Information about Dynamite backend are all here.~~
